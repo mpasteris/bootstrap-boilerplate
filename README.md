@@ -1,4 +1,4 @@
-You can quickly get started with Bootstrap with nothing do download using the following template:
+You can quickly get started with Bootstrap with nothing to download using the following template:
 
 ```html
 <!DOCTYPE html>
